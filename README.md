@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayhem-kahri&label=Profile%20views&color=0e75b6&style=flat" alt="Ayhem-kahri" /> </p>
 
-I am a full-stack developer, with experience in front-end and back-end programming who loves making websites and loves all things that are related to the internet, from web development and server programming to cloud computing. with an eye for detail and a passion for elegant code.
+I am a Web Developer / Ui & Ux Designer, who loves making websites and loves all things that are related to the internet, from web development and server programming to cloud computing. with an eye for detail and a passion for elegant code.
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
