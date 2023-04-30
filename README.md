@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayhem-kahri&label=Profile%20views&color=0e75b6&style=flat" alt="Ayhem-kahri" /> </p>
 
-I am a Web Developer / Ui & Ux Designer, who loves making websites and loves all things that are related to the internet, from web development and server programming to cloud computing. with an eye for detail and a passion for elegant code.
+I am a passionate Web Developer, specialized in UI & UX design. My love for creating stunning websites has fueled my curiosity in exploring all facets of the internet, ranging from web development and server programming to cloud computing. My keen eye for detail and dedication to producing elegant code are two key qualities that help me deliver exceptional results.
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
